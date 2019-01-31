@@ -4,9 +4,11 @@ In this project a solution for the customer churn* in a bank is presented. The m
 
 The application of the model here presented would translate in a positive economical impact for the institution. Furthermore these results are not exclusive for banks: any type of institution/company with a large number of customers (or employees), where loyalty represents a valuable feature, could benefit from it.
 
-***[Click here to access the Jupyter Notebook and see the project.](https://github.com/LeviGuerra/Bank-Churn-Prediction/blob/master/Code_and_Dataset/Customer_Clustering_and_Churn_Prediction.ipynb)***
-
 *\*churn: referred to the action of ceasing relationships with an institution or company.*
+
+-------
+
+***[Click here to access the Jupyter Notebook and see the project.](https://github.com/LeviGuerra/Bank-Churn-Prediction/blob/master/Code_and_Dataset/Customer_Clustering_and_Churn_Prediction.ipynb)***
 
 -------
 
