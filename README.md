@@ -6,7 +6,7 @@ The application of the model here presented would translate in a positive econom
 
 ***[Click here to access the Jupyter Notebook and see the project.](https://github.com/LeviGuerra/Bank-Churn-Prediction/blob/master/Code_and_Dataset/Customer_Clustering_and_Churn_Prediction.ipynb)***
 
-*\*referred to the action of ceasing relationships with an institution or company.*
+*\*churn: referred to the action of ceasing relationships with an institution or company.*
 
 -------
 
